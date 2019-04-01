@@ -1,0 +1,14 @@
+@media screen and (min-width: 2048px)
+{
+	a{
+		font-size:22px;
+
+	}
+	h2{
+		font-size: 45px;
+	}
+	.post{
+		font-size:35px;
+	}
+
+}
